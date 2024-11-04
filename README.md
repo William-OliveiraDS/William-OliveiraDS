@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo William Oliveira, tenho 22 anos!
+- 👀 Estou interessado em programação, mas não sei se seguirei nesta área. Ainda um pouco indeciso.
+- 🌱 Atualmente fazendo o curso CC50 - Ciência da Computação de Harvard, pela Studar.
+- 📫 Instagram: @will.oliveirads | Linkedin: https://www.linkedin.com/in/williamoliveirads/
+- ⚡ Fun fact: Sou calvo e careca aos 22. O Homem nasce bom, TI o corrompe!🧑‍🖥️
